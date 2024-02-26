@@ -1,6 +1,6 @@
 # Rowan_STT_Model
 
-1.  This Repository contains an Inference code. To use this inference code on your data you need to download the model_Checkpoint from         this Google Drive link: https://drive.google.com/file/d/18jwDNyjwzJrBKLlR-t288B9F9-iEUkEf/view?usp=drive_link.
+1.  This Repository contains an Inference code. To use this inference code on your data you need to download the model_Checkpoint from         this Google Drive link: https://drive.google.com/file/d/1XHW4lQb0syNwzpawxkhkKKnfiBmw1t0T/view?usp=drive_link
 
 2.  There are two folders in the checkpoint.
      1. adapter_model
