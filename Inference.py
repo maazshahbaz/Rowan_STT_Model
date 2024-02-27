@@ -5,8 +5,8 @@ from evaluate import load
 from jiwer import wer
 
 # Load the processor and model
-processor = WhisperProcessor.from_pretrained("Model_Checkpoint_Path/tokenizer")
-model = WhisperForConditionalGeneration.from_pretrained("Model_Checkpoint_Path/adapter_model").to("cuda:1")
+processor = WhisperProcessor.from_pretrained("ashfaq93/Model_1")
+model = WhisperForConditionalGeneration.from_pretrained("ashfaq93/Model_1").to("cuda:1")
 
 # Load the dataset
 dataset = load_dataset("Jzuluaga/atco2_corpus_1h")
