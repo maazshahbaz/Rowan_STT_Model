@@ -9,7 +9,7 @@ processor = WhisperProcessor.from_pretrained("ashfaq93/Model_1")
 model = WhisperForConditionalGeneration.from_pretrained("ashfaq93/Model_1").to("cuda:1")
 
 # Load the dataset
-dataset = load_dataset("Jzuluaga/atco2_corpus_1h")
+dataset = load_dataset("load_data_here")
 
 # Remove unnecessary columns
 dataset = dataset.remove_columns(["id", "segment_start_time", "segment_end_time", "duration"])
