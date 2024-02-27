@@ -1,6 +1,7 @@
 # Rowan_STT_Model
 
 1. This Repository contains an Inference code. To use this inference code on data call the model from hugging face using the following links:
+         There are two Models:
              1. Model_1: ashfaq93/Model_1
              2. Model_2: ashfaq93/Model_2
                 
