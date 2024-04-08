@@ -1,4 +1,2 @@
-Requirements:
-
-You can install the required libraries using this line code: 
-    pip install datasets transformers jiwer
+Essential Libraries:
+    pip install datasets torch transformers jiwer
